@@ -1,6 +1,7 @@
 | Studied firmware | PSN Access               |
 | ---------------- | ------------------------ |
 | 14.00            | None (outdated firmware) |
+
 A few days ago, I asked for help to find a way to still download games on a PS5 while blocking updates through DNS. This post can be found [right here](https://www.reddit.com/r/PS5_Jailbreak/comments/1x2c70q/blocking_fw_update_while_still_download_games/), and it turns out this might be impossible.
 
 During my research, I realized that the Sony domains the console connects to are poorly documented. So I decided to start documenting them, in my own small way.
